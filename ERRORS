@@ -1,0 +1,10 @@
+Syntax Error in template "/var/www/html/vtigercrm/includes/runtime/../../layouts/v7/modules/Vtiger/RecentComments.tpl" on line 94 "
+{$CREATOR_NAME|mb_substr:0:2|escape:"html"}
+" unknown modifier "mb_substr"
+
+
+Syntax Error in template "/var/www/html/vtigercrm/includes/runtime/../../layouts/v7/modules/Vtiger/RecentComments.tpl" on line 124 "" unknown modifier "mb_substr"
+
+
+
+Syntax Error in template "/var/www/html/vtigercrm/includes/runtime/../../layouts/v7/modules/Vtiger/RecentComments.tpl" on line 126 "{mb_substr(trim($DISPLAYNAME),0,$MAX_LENGTH)}..." unknown function "mb_substr"

@@ -1,0 +1,6 @@
+[2019-05-02 15:17:53] Error on process request. Details: 
+Code - 1
+Message - Call to undefined function mb_strlen()
+File - /var/www/html/vtigercrm/modules/Settings/Workflows/models/ListView.php
+Line - 94
+
